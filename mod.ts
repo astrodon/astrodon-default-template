@@ -23,7 +23,7 @@
   }
 };
 
-const indexPath = getIndex();
+const indexPath = await getIndex();
 
 const app = await App.new();
 
