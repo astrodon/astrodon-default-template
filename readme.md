@@ -1,20 +1,16 @@
-# Simple official template starter.
+# 🦕 Basic template for Astrodon
 
-Very simple starter template for Astrodon;
-
-```
+Create:
+```shell
 astrodon init
-
-OR
-
-astrodon init --template default
-
-OR
-
-astrodon init --template https://github.com/astrodon/astrodon-default-template
-
 ```
 
+Build:
+```shell
+astrodon run
+```
+
+Build:
 ```shell
 astrodon build
 ```
