@@ -5,7 +5,7 @@ Create:
 astrodon init
 ```
 
-Build:
+Run:
 ```shell
 astrodon run
 ```
