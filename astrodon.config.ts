@@ -1,6 +1,6 @@
-import type { AppConfig } from "https://raw.githubusercontent.com/astrodon/astrodon/main/modules/astrodon/mod.ts";
+import type { IAppConfig } from "https://raw.githubusercontent.com/astrodon/astrodon/main/modules/astrodon/mod.ts";
 
-export default <AppConfig> {
+export default <IAppConfig> {
   main: "./mod.ts",
   name: "MyApp",
   id: "my.app",
